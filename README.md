@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - 🔭 I’m currently working on a **Machine Learning project** to predict diabetes progression.
 - 💼 I've worked at **ZT System**.
 - 💻 Interested in **cloud-based projects** and **system integration**.
-  
+- 💻 Interested in **machine learning projects**.
 ## 📊 Projects:
 - Machine Learning
 - Deep Learning
