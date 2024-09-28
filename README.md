@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - Leetcode
   
 ## 🌐 Let's connect:
-- LinkedIn: [Scott](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [Scott]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/po-yen-chiu-7b8902247/))
 - Email: [poyenchiu26@gmail.com](mailto:poyenchiu26@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me for collaboration or discussions. I'm always open to learning new things and contributing to exciting projects!
