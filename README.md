@@ -7,15 +7,7 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - 💻 Interested in **cloud-based projects** and **system integration**.
 - 🎮 I’m also developing an **RPG game** in Unity as a personal project.
   
-## 🛠️ Skills and Technologies:
-- **Programming Languages**: Python, Bash, Linux
-- **Frameworks and Tools**: scikit-learn, Tensorflow, pytorch
-- **Cloud Platforms**: AWS
-- **CI/CD**: Jenkins, GitHub Actions
-- **Testing**: System integration testing, software testing, automation scripts
-
 ## 📊 Projects:
-- [Diabetes Progression Prediction](https://github.com/yourusername/diabetes-progression) - A linear regression model using scikit-learn.
 - Machine Learning
   
 ## 🌐 Let's connect:
