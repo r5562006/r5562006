@@ -5,10 +5,11 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - 🔭 I’m currently working on a **Machine Learning project** to predict diabetes progression.
 - 💼 I've worked at **ZT System**.
 - 💻 Interested in **cloud-based projects** and **system integration**.
-- 🎮 I’m also developing an **RPG game** in Unity as a personal project.
   
 ## 📊 Projects:
 - Machine Learning
+- Deep Learning
+- Leetcode
   
 ## 🌐 Let's connect:
 - LinkedIn: [Scott](https://www.linkedin.com/in/your-profile/)
