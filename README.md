@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Scott!
 
-<!--
-**r5562006/r5562006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with experience in cloud computing, system integration, and software testing. I'm also passionate about **machine learning**, and currently working on developing my skills in **Python** and **data science**. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Machine Learning project** to predict diabetes progression.
+- 💼 I've worked at **ZT System**.
+- 💻 Interested in **cloud-based projects** and **system integration**.
+- 🎮 I’m also developing an **RPG game** in Unity as a personal project.
+  
+## 🛠️ Skills and Technologies:
+- **Programming Languages**: Python, Bash, Linux
+- **Frameworks and Tools**: scikit-learn, Tensorflow, pytorch
+- **Cloud Platforms**: AWS
+- **CI/CD**: Jenkins, GitHub Actions
+- **Testing**: System integration testing, software testing, automation scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects:
+- [Diabetes Progression Prediction](https://github.com/yourusername/diabetes-progression) - A linear regression model using scikit-learn.
+- Machine Learning
+  
+## 🌐 Let's connect:
+- LinkedIn: [Scott](https://www.linkedin.com/in/your-profile/)
+- Email: [poyenchiu26@gmail.com](mailto:poyenchiu26@gmail.com)
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me for collaboration or discussions. I'm always open to learning new things and contributing to exciting projects!
+
