@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - 💻 Interested in **cloud-based projects** and **system integration**.
 - 💻 Interested in **machine learning projects**.
 ## 📊 Projects:
+- Data Science
 - Machine Learning
 - Deep Learning
 - Leetcode
