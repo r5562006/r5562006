@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 - Machine Learning
 - Deep Learning
 
-## 📊 Practice :
-- Leetcode
-
   
 ## 🌐 Let's connect:
 - LinkedIn: [Po Yen Chiu](www.linkedin.com/in/po-yen-chiu-7b8902247)
