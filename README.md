@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Scott!
 
-Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with experience in cloud computing, system integration, and software testing. I'm also passionate about **machine learning**, and currently working on developing my skills in **Python** , **Linux**, **server structure**
+Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with experience in cloud computing, system integration, and software testing. I'm also passionate about **server projects**, and currently working on developing my skills in **Python** , **Linux**, **server structure**
 
 - 🔭 I’m currently working on a **Machine Learning project** to predict diabetes progression.
 - 💼 I've worked at **ZT System**.
 - 💻 Interested in **cloud-based projects** and **system integration**.
-- 💻 Interested in **Machine Learning projects**.
+- 💻 Interested in **Python_server_application**.
 ## 📊 Projects:
-- Machine Learning
-- Deep Learning
+- python server projects
+- Data structure and algorithms projects
 
   
 ## 🌐 Let's connect:
