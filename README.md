@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a **System Integration Test Engineer** with ex
 
 - 🔭 I’m currently working on a **Machine Learning project** to predict diabetes progression.
 - 💼 I've worked at **ZT System**.
-- 💻 Interested in **cloud-based projects** and **system integration**.
-- 💻 Interested in **Python_server_application**.
+- 💻 Interested in **Linux** and **system integration**.
+  
 ## 📊 Projects:
-- python server projects
-- Data structure and algorithms projects
+- Linux-Arm 
 
   
 ## 🌐 Let's connect:
